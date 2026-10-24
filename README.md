@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisha Shobhana</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkhant5531&label=Profile%20views&color=0e75b6&style=flat" alt="harshkhant5531" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkhant5531&label=Profile%20views&color=0e75b6&style=flat" alt="KrishaShobhana1227" /> </p>
 
 - 🔭 I’m currently working on **something cool!!!**
 
